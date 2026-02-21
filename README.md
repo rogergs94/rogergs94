@@ -8,9 +8,10 @@ I am Roger Gonzáles and  am a Data Science & Machine Learning enthusiast dedica
 * 🧪 End-to-End Pipelines: Managing the full data lifecycle—from preprocessing and feature engineering to critical metric evaluation (R2, F1-Score, mAP...).
 * ⚙️ Model Deployment: Scaling machine learning solutions using FastAPI, Docker, and Streamlit to bridge the gap between notebooks and production.
 
+📫 How to reach me: contact.rogergonzalez@gmail.com<br>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogergonzalezsanchez/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact.rogergonzalez@gmail.com) 
 [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@rogergonzalezsanchez1236)
 
 
