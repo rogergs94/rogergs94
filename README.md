@@ -1,6 +1,6 @@
 # Hi There! 👋🏼
 
-I am Roger Gonzáles and  am a Data Science & Machine Learning enthusiast dedicated to transforming complex datasets into actionable insights. My journey through a Master’s in Data Science and Big Data has equipped me with a robust technical foundation, evolving from rigorous statistical analysis to deploying cutting-edge AI solutions.
+I am Roger González and I am a Data Science & Machine Learning enthusiast dedicated to transforming complex datasets into actionable insights. My journey through a Master’s in Data Science and Big Data has equipped me with a robust technical foundation, evolving from rigorous statistical analysis to deploying cutting-edge AI solutions.
 
 <br>Throughout my career and personal projects, I have developed deep expertise in:
 * 📈 Predictive Modeling: Designing and fine-tuning Linear & Logistic Regression models for data-driven decision-making and trend classification.
