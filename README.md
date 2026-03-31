@@ -12,7 +12,7 @@ I am Roger González and I am a Data Science & Machine Learning enthusiast dedic
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogergonzalezsanchez/) 
-[![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@rogergonzalezsanchez1236)
+[![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@rogergs_94)
 
 
 <br>![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
